@@ -215,3 +215,35 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 918.404297 seconds.
+  path: Assets/Prefabs/Floor 1x2.prefab
+  artifactKey: Guid(f0a9b89c0b8398246933b28a22e75dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Floor 1x2.prefab using Guid(f0a9b89c0b8398246933b28a22e75dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12610dd24d3203dcfedbae1bb1978986') in 0.007229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 655.232881 seconds.
+  path: Assets/Materials/Ball.mat
+  artifactKey: Guid(5f227f19e25191a4f81bb37f9972dbbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Ball.mat using Guid(5f227f19e25191a4f81bb37f9972dbbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9e45b41dec4c72734d0fc96f6370f1c') in 0.029770 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (77.0 KB). Loaded Objects now: 3551.
+Memory consumption went from 51.5 MB to 51.4 MB.
+Total: 2.690700 ms (FindLiveObjects: 0.174200 ms CreateObjectMapping: 0.098700 ms MarkObjects: 2.368800 ms  DeleteObjects: 0.048600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
