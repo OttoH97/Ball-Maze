@@ -822,4 +822,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/ottoh/Ball Maze/Builds/0.1.5/Ball Maze.exe
+  playerPath: C:/Users/ottoh/Ball Maze/Builds/0.3/Ball Maze.exe
